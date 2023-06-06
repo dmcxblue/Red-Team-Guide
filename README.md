@@ -9,7 +9,7 @@ Hi everyone! This guide is dedicated to all new and upcoming cybersecurity engin
 
 ![image](https://github.com/dmcxblue/Red-Team-Guide/assets/41899653/3f872df1-d106-42a5-b81d-6356c9cd76f9)
 
-### <div align="center"> Some current techniques os of May 2023 </div>
+### <div align="center"> Some current techniques </div>
 
 ![image](https://github.com/dmcxblue/Red-Team-Guide/assets/41899653/ee113a91-0815-4312-a080-8923bf03e4b4)
 
